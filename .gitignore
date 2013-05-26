@@ -21,6 +21,9 @@ bin/*
 ###
 .chef/*.pem
 .chef/encrypted_data_bag_secret
+.chef/checksums/
+.chef/syntax_check_cache/
+
 
 ###
 # Ignore cookbooks. This is a workspace only

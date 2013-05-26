@@ -1,0 +1,7 @@
+cookbook_path: cookbooks
+plugins:
+    git:
+        enabled: true
+    foodcritic:
+        enabled: true
+    
