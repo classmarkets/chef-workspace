@@ -1,8 +1,28 @@
+# Editors, Caches, that kind of thing
 .rake_test_cache
+.vagrant
+*~
+*#
+.#*
+\#*#
+.*.sw[a-z]
+*.un~
+
+.batcave
+
+# Bundler & co.
+Gemfile.lock
+Berksfile.lock
+bin/*
+.bundle/*
 
 ###
 # Ignore Chef key files and secrets
 ###
 .chef/*.pem
 .chef/encrypted_data_bag_secret
+
+###
+# Ignore cookbooks. This is a workspace only
+###
 /cookbooks
