@@ -15,7 +15,8 @@
     "classmarkets-nginx": "= 0.3.0",
     "classmarkets-postgresql": "= 1.1.0",
     "classmarkets-tracker": "= 0.3.0",
-    "classmarkets-userdb": "= 1.2.0"
+    "classmarkets-userdb": "= 1.2.0",
+    "classmarkets-hetzner": "= 0.1.3"
   },
   "json_class": "Chef::Environment",
   "chef_type": "environment",
