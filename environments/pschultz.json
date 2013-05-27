@@ -1,0 +1,26 @@
+{
+  "name": "pschultz",
+  "description": "Dev env for pschultz",
+  "cookbook_versions": {
+    "classmarkets-diamond": "= 0.3.0",
+    "classmarkets-business-intelligence": "= 0.2.0",
+    "classmarkets-elasticsearch": "= 0.2.0",
+    "classmarkets-graphite": "= 0.3.0",
+    "classmarkets-htpasswd": "= 0.2.0",
+    "classmarkets-immoadmindb": "= 0.2.0",
+    "classmarkets-iptables": "= 0.3.0",
+    "classmarkets-jenkins": "= 0.2.0",
+    "classmarkets-linux-server": "= 0.3.0",
+    "classmarkets-logstash": "= 0.3.0",
+    "classmarkets-nginx": "= 0.3.0",
+    "classmarkets-postgresql": "= 1.1.0",
+    "classmarkets-tracker": "= 0.3.0",
+    "classmarkets-userdb": "= 1.2.0"
+  },
+  "json_class": "Chef::Environment",
+  "chef_type": "environment",
+  "default_attributes": {
+  },
+  "override_attributes": {
+  }
+}

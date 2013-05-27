@@ -1,0 +1,25 @@
+{
+  "name": "testing",
+  "description": "CI and quality ensurance",
+  "cookbook_versions": {
+    "classmarkets-business-intelligence": "= 0.1.1",
+    "classmarkets-elasticsearch": "= 0.1.1",
+    "classmarkets-diamond": "= 0.2.1",
+    "classmarkets-graphite": "= 0.1.1",
+    "classmarkets-immoadmindb": "= 0.1.1",
+    "classmarkets-iptables": "= 0.1.1",
+    "classmarkets-jenkins": "= 0.1.1",
+    "classmarkets-linux-server": "= 0.1.1",
+    "classmarkets-logstash": "= 0.1.1",
+    "classmarkets-nginx": "= 0.1.1",
+    "classmarkets-postgresql": "= 1.0.2",
+    "classmarkets-tracker": "= 0.2.1",
+    "classmarkets-userdb": "= 1.1.0"
+  },
+  "json_class": "Chef::Environment",
+  "chef_type": "environment",
+  "default_attributes": {
+  },
+  "override_attributes": {
+  }
+}

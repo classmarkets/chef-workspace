@@ -1,0 +1,26 @@
+{
+  "name": "production",
+  "description": "where you break real things",
+  "cookbook_versions": {
+    "classmarkets-business-intelligence": "= 0.0.1",
+    "classmarkets-diamond": "= 0.0.1",
+    "classmarkets-elasticsearch": "= 0.0.1",
+    "classmarkets-graphite": "= 0.0.1",
+    "classmarkets-htpasswd": "= 0.0.1",
+    "classmarkets-immoadmindb": "= 0.0.1",
+    "classmarkets-iptables": "= 0.0.1",
+    "classmarkets-jenkins": "= 0.0.1",
+    "classmarkets-linux-server": "= 0.0.1",
+    "classmarkets-logstash": "= 0.0.1",
+    "classmarkets-nginx": "= 0.0.1",
+    "classmarkets-postgresql": "= 0.0.1",
+    "classmarkets-tracker": "= 0.0.1",
+    "classmarkets-userdb": "= 0.0.1"
+  },
+  "json_class": "Chef::Environment",
+  "chef_type": "environment",
+  "default_attributes": {
+  },
+  "override_attributes": {
+  }
+}
