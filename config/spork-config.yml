@@ -1,4 +1,5 @@
 cookbook_path: cookbooks
+environment_path: environments
 plugins:
     git:
         enabled: true
